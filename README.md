@@ -30,15 +30,15 @@ Raw.github.com files can only used in combination with `?sanitize=true`
 
 ## Variant 5: SVG files hosted on github.io
 
-`![Icon 5](https://USER.github.io/DIRECTORY/FILE.svg)`
+`![Icon 5](https://USER.github.io/DIRECTORY/FILE.svg?sanitize=true)`
 
-![Icon 5](https://merukeru.github.io/imgs/guides/svg/GUIDE_02_example_1.svg)
+![Icon 5](https://merukeru.github.io/imgs/guides/svg/GUIDE_02_example_1.svg?sanitize=true)
 
 ## Variant 6: SVG files hosted on github.io with arrow tag
 
-`<img src="https://USER.github.io/DIRECTORY/FILE.svg">`
+`<img src="https://USER.github.io/DIRECTORY/FILE.svg?sanitize=true">`
 
-<img src="https://merukeru.github.io/imgs/guides/svg/GUIDE_02_example_1.svg">
+<img src="https://merukeru.github.io/imgs/guides/svg/GUIDE_02_example_1.svg?sanitize=true">
 
 
 ## Link
