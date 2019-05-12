@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     preserveAspectRatio="xMidYMid meet" viewBox="0 0 80 80" width="80" height="80">
+    <defs>
+        <path d="M55 35L55 60L25 60L25 35L40 20L55 35Z" id="g2akaQweno"></path>
+    </defs>
+    <g>
+        <g>
+            <use xlink:href="#g2akaQweno" opacity="1" fill="#3a84e0" fill-opacity="1"></use>
+            <use xlink:href="#g2akaQweno" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="1"
+                 stroke-opacity="1"></use>
+        </g>
+    </g>
+</svg>
