@@ -26,28 +26,20 @@ Raw.github.com files can only used in combination with `?sanitize=true`
 
 `<img src="https://raw.githubusercontent.com/USER/REPO/BRANCH/DIRECTORY/FILE.svg?sanitize=true">`
 
-<img src="https://raw.githubusercontent.com/USER/REPO/BRANCH/DIRECTORY/FILE.svg?sanitize=true">
+<img src="https://raw.githubusercontent.com/Merukeru/imgs/master/guides/svg/GUIDE_02_example_1.svg?sanitize=true">
 
 ## Variant 5: SVG files hosted on github.io
 
 `![Icon 5](https://USER.github.io/DIRECTORY/FILE.svg)`
 
-![Icon 5](https://merukeru.github.io/imgs/master/guides/svg/GUIDE_02_example_1.svg)
+![Icon 5](https://merukeru.github.io/imgs/guides/svg/GUIDE_02_example_1.svg)
 
 ## Variant 6: SVG files hosted on github.io with arrow tag
 
 `<img src="https://USER.github.io/DIRECTORY/FILE.svg">`
 
-<img src="https://merukeru.github.io/imgs/master/guides/svg/GUIDE_02_example_1.svg">
+<img src="https://merukeru.github.io/imgs/guides/svg/GUIDE_02_example_1.svg">
 
-## Variant 7: SVG files on rawgithub.io can be also be used
 
-`![Icon 7](https://rawgithub.io/USER/DIRECTORY/FILE.svg)`
-
-![Icon 7](https://rawgithub.io/merukeru/imgs/master/guides/svg/GUIDE_02_example_1.svg)
-
-## Variant 8:  SVG files on rawgithub.io with arrow tag
-
-`<img src="https://rawgithub.io/USER/DIRECTORY/FILE.svg">`
-
-<img src="https://rawgithub.io/merukeru/imgs/master/guides/svg/GUIDE_02_example_1.svg">
+## Link
+[This site](https://raw.githubusercontent.com/Merukeru/imgs)
