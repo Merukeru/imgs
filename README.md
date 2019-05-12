@@ -1,4 +1,4 @@
-# Use images in markdown on Github
+# How to use images in markdown on Github
 
 ## Variant 1: Relative files can be used only on github self
 
