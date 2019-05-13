@@ -40,6 +40,5 @@ Raw.github.com files can only used in combination with `?sanitize=true`
 
 <img src="https://merukeru.github.io/imgs/guides/svg/GUIDE_02_example_1.svg?sanitize=true">
 
-
 ## Link
 [This site](https://raw.githubusercontent.com/Merukeru/imgs)
