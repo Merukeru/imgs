@@ -6,6 +6,8 @@
 
 ![Icon 1](./guides/svg/GUIDE_02_example_1.svg)
 
+Note: Use this if you want to use images from the same repository.
+
 ## Variant 2:** Same as variant 1, but using a arrow tag
 
 `<img src="./PATH/TO/FILE.svg">`
@@ -21,6 +23,8 @@ Raw.github.com files can only used in combination with `?sanitize=true`
 `![Icon 3](https://raw.githubusercontent.com/USER/REPO/BRANCH/DIRECTORY/FILE.svg?sanitize=true)`
 
 ![GUIDE_02_example_1.svg](https://raw.githubusercontent.com/Merukeru/imgs/master/guides/svg/GUIDE_02_example_1.svg?sanitize=true)
+
+Note: Use this if you want to use images from other repositores.
 
 ## Variant 4: raw.githubusercontent files via a arrow tag
 
@@ -41,4 +45,6 @@ Raw.github.com files can only used in combination with `?sanitize=true`
 <img src="https://merukeru.github.io/imgs/guides/svg/GUIDE_02_example_1.svg?sanitize=true">
 
 ## Link
-[This site](https://raw.githubusercontent.com/Merukeru/imgs)
+
+[This site](https://merukeru.github.io/imgs/)
+[Assets](https://raw.githubusercontent.com/Merukeru/imgs)
