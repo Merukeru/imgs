@@ -6,8 +6,8 @@
     </defs>
     <g>
         <g>
-            <use fill="#3a84e0" fill-opacity="1" opacity="1" xlink:href="#g2akaQweno"/>
-            <use fill-opacity="0" stroke="#000000" stroke-opacity="1" stroke-width="1" opacity="1" xlink:href="#g2akaQweno"/>
+            <use fill="#999999" fill-opacity="1" opacity="1" xlink:href="#g2akaQweno"/>
+            <use fill-opacity="0" stroke="#666666" stroke-opacity="1" stroke-width="1" opacity="1" xlink:href="#g2akaQweno"/>
         </g>
     </g>
 </svg>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg" width="150" height="100" viewBox="0 0 3 2">
-    <rect width="3" height="2" fill="lightblue"/>
+    <rect width="3" height="2" fill="#EEEEEE"/>
     <rect width="1" height="0.5" x="1" y="1" fill="blue"/>
     <polygon fill="blue" points="1,1 2,1 1.5,0.5"/>
 </svg>
