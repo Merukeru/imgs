@@ -46,5 +46,6 @@ Note: Use this if you want to use images from other repositores.
 
 ## Link
 
-[This site](https://merukeru.github.io/imgs/)
-[Assets](https://raw.githubusercontent.com/Merukeru/imgs)
+[merukeru.github.io](https://merukeru.github.io/imgs/)
+
+[raw.githubusercontent.com/Merukeru](https://raw.githubusercontent.com/Merukeru/imgs)
