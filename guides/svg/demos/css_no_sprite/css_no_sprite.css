@@ -7,15 +7,12 @@
 
 .play-icn {
     background-image: url('music_control_play.png');
-    background-position: 0 0;
 }
 
 .pause-icn {
     background-image: url('music_control_pause.png');
-    background-position: -60px 0;
 }
 
 .stop-icn {
     background-image: url('music_control_stop.png');
-    background-position: -120px 0;
 }
