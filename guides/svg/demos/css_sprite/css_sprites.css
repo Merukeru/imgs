@@ -1,0 +1,19 @@
+.icn {
+    height: 64px;
+    width: 64px;
+    background-image: url('sprite_music_controls.png');
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+.play-icn {
+    background-position: 0 0;
+}
+
+.pause-icn {
+    background-position: -60px 0;
+}
+
+.stop-icn {
+    background-position: -120px 0;
+}
